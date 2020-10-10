@@ -1,4 +1,4 @@
-# Stathack
+# Wesnoth_Stathack
 
 A stathack for Wesnoth 1.14.9 that displays the second player's gold whenever the "Terrain Description" box is shown.
 	
